@@ -1,0 +1,22 @@
+{
+  "name": "abyss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://szeswee@github.com/szeswee/abyss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szeswee/abyss/issues"
+  },
+  "homepage": "https://github.com/szeswee/abyss#readme",
+  "devDependencies": {
+    "three": "^0.85.2"
+  }
+}
